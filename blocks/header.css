@@ -1,0 +1,61 @@
+.header {
+  background-color: #fff;
+  background-image: url(../images/background_header.svg);
+  background-size: cover;
+  min-height: 720px;
+  max-height: 800px;
+  height: 100vh;
+  position: relative;
+}
+
+.header__title {
+  max-width: 729px;
+  margin: 80px 0 0 80px;
+  position: relative;
+  z-index: 2;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 72px;
+}
+
+.header__span-accent {
+  display: block;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-style: italic;
+  font-size: 60px;
+  line-height: 72px;
+  color: #2f80ed;
+}
+
+.header__description {
+  max-width: 683px;
+  margin: 28px 0 0 80px;
+  position: relative;
+  z-index: 1;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.header__image {
+  max-width: 646px;
+  position: absolute;
+  right: 5px;
+  top: 124px;
+}
+
+.header__hours {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+}
+
+.header__paragraph {
+  margin: 0;
+}
+
+.header__address {
+  position: absolute;
+  bottom: 40px;
+  right: 80px;
+}
