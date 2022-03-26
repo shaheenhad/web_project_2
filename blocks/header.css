@@ -38,7 +38,8 @@
 }
 
 .header__image {
-  max-width: 646px;
+  width: 646px;
+  height: 568px;
   position: absolute;
   right: 5px;
   top: 124px;
