@@ -28,7 +28,7 @@
   margin: 8px 0 32px 0;
   height: 60px;
   width: 385px;
-  padding: 0;
+  padding: 0 0 0 10px;
 }
 
 .form__input::placeholder {
@@ -40,7 +40,7 @@
 .form__button {
   border-radius: 4px;
   opacity: 1;
-  transition: opacity 0.25s ease-in;
+  transition: opacity 0.15s ease-in;
   background-color: #2f80ed;
   color: #fff;
   padding: 0;

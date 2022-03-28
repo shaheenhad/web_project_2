@@ -1,2 +1,54 @@
-.header {
+.footer {
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+}
+
+.footer__content {
+  display: flex;
+  padding: 60px 100px 108px 80px;
+}
+
+.footer__logo {
+  width: 153px;
+  height: 32px;
+}
+
+.footer__list {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__list-item {
+  list-style: none;
+  margin-bottom: 16px;
+}
+
+.footer__list-item:last-of-type {
+  margin: 0;
+}
+
+.footer__social {
+  margin-left: auto;
+}
+.footer__social-heading {
+  color: #fff;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.footer__social-link {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.footer__copyright {
+  color: #fff;
+  padding: 0 0 60px 80px;
+  margin: 0;
 }
