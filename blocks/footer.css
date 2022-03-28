@@ -47,6 +47,11 @@
   column-gap: 10px;
 }
 
+.footer__social-icon {
+  width: 16px;
+  height: 16px;
+}
+
 .footer__copyright {
   color: #fff;
   padding: 0 0 60px 80px;
