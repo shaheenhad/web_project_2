@@ -45,18 +45,23 @@
   top: 124px;
 }
 
-.header__hours {
+.header__footer {
   position: absolute;
   bottom: 40px;
-  left: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.header__hours {
+  padding-left: 80px;
 }
 
 .header__paragraph {
   margin: 0;
 }
 
-.header__address {
-  position: absolute;
-  bottom: 40px;
-  right: 80px;
+.header__paragraph:last-of-type {
+  padding-right: 80px;
 }
