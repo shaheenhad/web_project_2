@@ -18,13 +18,12 @@
   font-weight: 500;
 }
 
-.form__label_checkbox {
+.form__label-checkbox {
   display: flex;
   flex-direction: row;
   align-items: center;
   column-gap: 12px;
   font-weight: 500;
-  margin-bottom: 120px;
 }
 
 .form__input {
