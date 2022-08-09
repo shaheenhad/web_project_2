@@ -11,6 +11,4 @@ This is the second project of the Web Development program at Practicum by Yandex
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
-
-Add your ideas here :)
+Find the project here: https://shaheenhad.github.io/web_project_2/
